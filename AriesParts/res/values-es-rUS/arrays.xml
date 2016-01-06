@@ -17,11 +17,11 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string-array name="mdnie_entries">
-    <item>Devre dışı</item>
-    <item>Kullanıcı Arayüzü Modu</item>
-    <item>Video Modu</item>
-    <item>Video sıcak</item>
-    <item>Video Soğuk Modu</item>
-    <item>Kamera Modu</item>
+    <item>Desactivado</item>
+    <item>UI</item>
+    <item>Video</item>
+    <item>Video cálido</item>
+    <item>Video frío</item>
+    <item>Cámara</item>
   </string-array>
 </resources>
